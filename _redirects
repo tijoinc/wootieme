@@ -1,0 +1,2 @@
+# Redirect all paths under /s/ to tijo.link
+/s/*    https://www.tijo.link/s/:splat    301
